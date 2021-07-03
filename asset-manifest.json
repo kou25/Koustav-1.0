@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Koustav/static/css/main.73838d4c.chunk.css",
+    "main.js": "/Koustav/static/js/main.d39789a7.chunk.js",
+    "main.js.map": "/Koustav/static/js/main.d39789a7.chunk.js.map",
+    "runtime-main.js": "/Koustav/static/js/runtime-main.64410a9c.js",
+    "runtime-main.js.map": "/Koustav/static/js/runtime-main.64410a9c.js.map",
+    "static/css/2.6ef74224.chunk.css": "/Koustav/static/css/2.6ef74224.chunk.css",
+    "static/js/2.54db005c.chunk.js": "/Koustav/static/js/2.54db005c.chunk.js",
+    "static/js/2.54db005c.chunk.js.map": "/Koustav/static/js/2.54db005c.chunk.js.map",
+    "index.html": "/Koustav/index.html",
+    "static/css/2.6ef74224.chunk.css.map": "/Koustav/static/css/2.6ef74224.chunk.css.map",
+    "static/css/main.73838d4c.chunk.css.map": "/Koustav/static/css/main.73838d4c.chunk.css.map",
+    "static/js/2.54db005c.chunk.js.LICENSE.txt": "/Koustav/static/js/2.54db005c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64410a9c.js",
+    "static/css/2.6ef74224.chunk.css",
+    "static/js/2.54db005c.chunk.js",
+    "static/css/main.73838d4c.chunk.css",
+    "static/js/main.d39789a7.chunk.js"
+  ]
+}
